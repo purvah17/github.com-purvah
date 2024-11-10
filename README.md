@@ -33,7 +33,7 @@ _Pune, Feb 2023 – Present_
 ### 📈 Coding Stats
 
 #### LeetCode Profile
-![LeetCode Stats](https://leetcard.jacoblin.cool/purvahuddar?font=Dancing_Script)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Purvah17?font=Dancing_Script)
 
 ---
 
