@@ -19,14 +19,11 @@ I'm a Full Stack Developer with expertise in **Vue 3**, **Java**, and **SQL**, s
 **Project Associate**  
 _Pune, Feb 2023 – Present_
 
-- **Exam Evidence Verification System**: Developed and deployed a comprehensive system using **PrimeVue** and **Vue 3** to enhance the efficiency and accuracy of the examination process.
-- **User Experience Improvements**: Created interactive menus for better navigation and interface responsiveness, implementing backend logic with **Java Spring Boot** and **SQL** for secure authentication.
-- **Cross-Functional Collaboration**: Worked with diverse teams to understand project requirements, deliver solutions, and ensure timely issue resolution.
-- **Extended Go-Live Support**: Provided ongoing support post-launch to resolve production issues and facilitate smooth operations.
-- **Knowledge Sharing**: Enabled swift team onboarding by conducting detailed knowledge transfer sessions.
-- **Help and Support System**: Built a ticketing system with an intuitive dashboard to streamline user support.
-- **Role-Based Access**: Developed landing pages with role-specific access for administrators, officers, and users using **Vue 2** and Java for REST API.
-- **Secure Data Management**: Designed and implemented modules for admission, exam processing, and profile verification with **Vue 3**, **SQL**, and **Java**.
+ **Admission Module**: Developed a comprehensive module to streamline the admission process, integrating Vue 3, Java, and SQL for secure and efficient data handling.
+- **Exam Module**: Designed and implemented exam processes that enhanced the efficiency and reliability of examination workflows.
+- **Profile Verification**: Built a profile verification system using Vue 3 and Java, ensuring data security and validation accuracy.
+- **Exam Evidence System**: Developed and deployed an Exam Evidence Verification System with **PrimeVue** and **Vue 3**, improving examination process accuracy.
+- **Help & Support Ticket System**: Created an intuitive dashboard for a help and support ticketing system, facilitating user support and providing seamless issue resolution.
 
 ---
 
