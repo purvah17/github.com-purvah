@@ -37,14 +37,14 @@ _Pune, Feb 2023 – Present_
 ### 📫 How to Reach Me
 
 - **LinkedIn:** https://www.linkedin.com/in/purva-h-900a75277fullstackdeveloper/
-- **GitHub:**https://github.com/purvah17/
+- **GitHub:**  https://github.com/purvah17/
 - **Email:** purva.huddar@gmail.com
 
 ---
 
 ### 🌱 Current Goals
 
-- Deepen my expertise in fullstack development using Java.
+- Deepen my expertise in Fullstack development using Java.
 - Contribute to more open-source projects to expand my portfolio.
 - Enhance my problem-solving abilities through regular LeetCode practice.
 
